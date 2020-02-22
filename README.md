@@ -20,5 +20,14 @@ switch to vi and limits
 ## Keyboard Short Cuts
 - <command>-D multi cursor
 
+## Remote-SSH to Centos6
+
+I have had the need to use VS Code on Centos6 come up twice recently.
+
+Issues
+
+Workaround here:
+https://code.visualstudio.com/docs/remote/linux#_updating-glibc-and-libstdc-on-rhel-centos-6
+
 
 ## Example of Writing a Plugin
