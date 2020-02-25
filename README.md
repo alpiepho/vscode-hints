@@ -7,9 +7,12 @@ After using VS Code for a couple years, I have collected a number of hints and t
 
 ## Plugins
 
-TODO: add a list and explaination
-- Git Lense
-- ??
+
+- GitLens — Git supercharged ([Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens))
+Shows git blame details in line with code.
+- Prettier - Code formatter ([Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode))
+Auto formating for most files.
+
 
 switch to vi and limits
 
@@ -18,7 +21,8 @@ switch to vi and limits
 - Format Document
 
 ## Keyboard Short Cuts
-- <command>-D multi cursor
+- command-D multi cursor : lets you edit multiple lines at the same time
+- command-/ : toggle line comments for selected lines
 
 ## Remote-SSH to Centos6
 
