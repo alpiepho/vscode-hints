@@ -12,6 +12,7 @@ After using VS Code for a couple years, I have collected a number of hints and t
 Shows git blame details in line with code.
 - Prettier - Code formatter ([Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode))
 Auto formating for most files.
+- Vim([Link](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) Vim support. **does not** support all power-user features of vim.  doesn't work with GitLens well from my experience. (may have been fixed)
 
 
 switch to vi and limits
@@ -47,7 +48,7 @@ Any terminal window is an ssh terminal window on that system.
 Some of the files I am changing on the remote system have limited permissions.  In that case I can right-click on the file in the directory tree, "copy path", then in a terminal window:
 
 <pre>
-sudo chmod 777 <paste from copy path>
+sudo chmod 777 {paste from copy path}
 </pre>
 
 
